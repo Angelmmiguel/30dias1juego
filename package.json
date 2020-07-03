@@ -1,0 +1,10 @@
+{
+  "name": "30dias1juego",
+  "version": "1.0.0",
+  "description": "Un blog sobre mis andanzas en el desarrollo de videojuegos",
+  "main": "index.js",
+  "repository": "git@github.com:Angelmmiguel/30dias1juego.git",
+  "author": "Angel M <@_angelmm>",
+  "license": "(MIT OR CC-BY-NC-SA-4.0)",
+  "private": true
+}
